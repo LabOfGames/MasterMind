@@ -1,2 +1,2 @@
 # MasterMind
-A MasterMind made with help of @GianniMarco (Misha08)
+A MasterMind made with help of [GianniMarco](https://www.github.com/GianniMarco) (Misha08)
