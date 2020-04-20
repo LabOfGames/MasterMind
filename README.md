@@ -2,7 +2,7 @@
 A MasterMind made with help of [GianniMarco](https://www.github.com/GianniMarco) (Misha08)
 
 # Project page
-See the project on the website of scratch [here](https://scratch.mit.edu/projects/385833683/).
+See the project on the website of scratch [here](https://scratch.mit.edu/projects/385833683/). <br />
 Follow me on scratch: [CACOorango](https://www.scratch.mit.edu/users/CACOorango/).
 
 # Instructions
