@@ -1,5 +1,6 @@
 # MasterMind
 A MasterMind made with help of [GianniMarco](https://www.github.com/GianniMarco) (Misha08)
+Visit GianniMarco's github page: [GianniMarco](https://www.github.com/GianniMarco)
 
 # Project page
 See the project on the website of scratch [here](https://scratch.mit.edu/projects/385833683/). <br />
